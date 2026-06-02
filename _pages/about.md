@@ -38,10 +38,9 @@ I am actively seeking research internships in LLMs, VLMs, multimodal reasoning, 
 
 ## Image Forensics & Multimodal AI Safety
 
-- **FRAME: Forensic Routing and Adaptive Multi-path Evidence Fusion for Image Manipulation Detection**  
+- **[FRAME: Forensic Routing and Adaptive Multi-path Evidence Fusion for Image Manipulation Detection](https://arxiv.org/abs/2605.12826v1)**  
   **Kaixiang Zhao**, Tianrun Yu, Aoxu Zhang, Junhao Su, Porter Jenkins, Amanda Hughes  
-  *CVPR 2026 SAFE Workshop*  
-  [PDF](https://arxiv.org/abs/2605.12826v1)
+  *CVPR 2026 SAFE Workshop*
 
 - **[TIGER: Traceable Inference with Graph-Based Evidence Routing for Mitigating Hallucinations in Multimodal Generation](https://arxiv.org/abs/2606.00232)**  
   **Kaixiang Zhao**, et al.  
@@ -53,10 +52,9 @@ I am actively seeking research internships in LLMs, VLMs, multimodal reasoning, 
   Tianrun Yu, **Kaixiang Zhao**, et al.  
   *NeurIPS 2026 (under review)*
 
-- **Provable and Practical In-Context Policy Optimization for Self-Improvement**  
+- **[Provable and Practical In-Context Policy Optimization for Self-Improvement](https://arxiv.org/abs/2603.01335)**  
   Tianrun Yu, Yuxiao Yang, Zhaoyang Wang, **Kaixiang Zhao**, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang  
-  *ICLR 2026*  
-  [PDF](https://arxiv.org/pdf/2603.01335)
+  *ICLR 2026*
 
 ## Trustworthy AI & Model Security
 
