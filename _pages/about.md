@@ -60,7 +60,7 @@ I am actively seeking research internships in LLMs, VLMs, multimodal reasoning, 
 
 ## Trustworthy AI & Model Security
 
-- **A Survey on Model Extraction Attacks and Defenses for Large Language Models**  
+- **[A Survey on Model Extraction Attacks and Defenses for Large Language Models](https://dl.acm.org/doi/10.1145/3711896.3736573)**  
   **Kaixiang Zhao**, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, Yushun Dong  
   *KDD 2025 Tutorial*
 
