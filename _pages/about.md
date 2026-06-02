@@ -62,6 +62,24 @@ I am actively seeking research internships in LLMs, VLMs, multimodal reasoning, 
   **Kaixiang Zhao**, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, Yushun Dong  
   *KDD 2025 Tutorial*
 
+- **[A Systematic Survey of Model Extraction Attacks and Defenses: State-of-the-Art and Perspectives](https://arxiv.org/abs/2508.15031)**  
+  **Kaixiang Zhao**, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, Yushun Dong  
+  *Preprint*
+
+- **[GraphIP-Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](https://arxiv.org/abs/2605.12827)**  
+  **Kaixiang Zhao**, Bolin Shen, Yuyang Dai, Shayok Chakraborty, Yushun Dong  
+  *Preprint*
+
+- **[Intellectual Property in Graph-Based Machine Learning as a Service: Attacks and Defenses](https://arxiv.org/abs/2508.19641)**  
+  Lincan Li, Bolin Shen, Chenxi Zhao, Yuxiang Sun, **Kaixiang Zhao**, Shirui Pan, Yushun Dong  
+  *Preprint*
+
+## Federated Learning
+
+- **[When the Server Steps In: Calibrated Updates for Fair Federated Learning](https://arxiv.org/abs/2601.05352)**  
+  Tianrun Yu, **Kaixiang Zhao**, Cheng Zhang, Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang  
+  *WiOpt 2026*
+
 
 # 📖 Educations
 - *2025.08 - 2028.05 (Expected)*, Ph.D. in Computer Science, Brigham Young University, Provo, USA
