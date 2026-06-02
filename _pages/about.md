@@ -43,13 +43,13 @@ I am actively seeking research internships in LLMs, VLMs, multimodal reasoning, 
   *CVPR 2026 SAFE Workshop*  
   [PDF](https://arxiv.org/abs/2605.12826v1)
 
-- **TIGER: Traceable Inference with Graph-based Evidence Routing for Multimodal Generation**  
+- **[TIGER: Traceable Inference with Graph-Based Evidence Routing for Mitigating Hallucinations in Multimodal Generation](https://arxiv.org/abs/2606.00232)**  
   **Kaixiang Zhao**, et al.  
   *EMNLP 2026 (under review)*
 
 ## LLM Reasoning, Distillation & Test-Time Optimization
 
-- **LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation**  
+- **[LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation](https://arxiv.org/abs/2605.30651)**  
   Tianrun Yu, **Kaixiang Zhao**, et al.  
   *NeurIPS 2026 (under review)*
 
