@@ -20,7 +20,7 @@ redirect_from:
 
 <a href="https://scholar.google.com/citations?user=j2QZb90AAAAJ&hl=en"><img src="https://img.shields.io/endpoint?url={{ url }}&label=Google%20Scholar%20Citations&logo=googlescholar&logoColor=white&labelColor=4285F4&color=success&style=flat-square" alt="Google Scholar Citations"></a>
 
-I am a Ph.D. student in Computer Science at Brigham Young University (BYU). I received my M.S. in Computer Science and Engineering from the University of Notre Dame, and my B.Eng. in Computer Science from Beijing Jiaotong University.
+I am a Ph.D. student in Computer Science at Brigham Young University (BYU), co-advised by <a href="https://twkillian.github.io/">Prof. Taylor Killian</a> and <a href="https://www.amandaleehughes.com/">Prof. Amanda Hughes</a>. I received my M.S. in Computer Science and Engineering from the University of Notre Dame, and my B.Eng. in Computer Science from Beijing Jiaotong University.
 
 My research is in AI/ML, with a focus on Large Language Models (LLMs), Vision-Language and Multimodal Large Language Models (VLMs/MLLMs), computer vision, and trustworthy AI. I am particularly interested in post-training and reasoning distillation, test-time scaling, multimodal hallucination mitigation, and image forensics. I work day-to-day with PyTorch, Hugging Face Transformers, vLLM, DeepSpeed, and PEFT/LoRA, building reproducible distributed training and evaluation pipelines.
 
