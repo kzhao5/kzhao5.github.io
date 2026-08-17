@@ -83,7 +83,7 @@ I am actively seeking research internships in LLMs, VLMs, multimodal reasoning, 
 
 # 📖 Educations
 - *2025.08 - 2028.05 (Expected)*, Ph.D. in Computer Science, Brigham Young University, Provo, USA
-- *2023.08 - 2025.08*, M.S. in Computer Science and Engineering, University of Notre Dame, USA
+- *2024.08 - 2025.08*, M.S. in Computer Science and Engineering, University of Notre Dame, USA
 - *2020.09 - 2024.06*, B.Eng. in Computer Science, Beijing Jiaotong University, Beijing, China
 
 
